@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlops_end_to_end/mlruns/0/8869ae0d045d466e95bfac5d6ddb57e1/artifacts
+end_time: 1723630988593
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8869ae0d045d466e95bfac5d6ddb57e1
+run_name: salty-ram-565
+run_uuid: 8869ae0d045d466e95bfac5d6ddb57e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723630980863
+status: 3
+tags: []
+user_id: '91979'

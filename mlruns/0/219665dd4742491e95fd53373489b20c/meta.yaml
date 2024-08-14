@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/mlops_end_to_end/mlruns/0/219665dd4742491e95fd53373489b20c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 219665dd4742491e95fd53373489b20c
+run_name: awesome-whale-808
+run_uuid: 219665dd4742491e95fd53373489b20c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723635755854
+status: 1
+tags: []
+user_id: '91979'
